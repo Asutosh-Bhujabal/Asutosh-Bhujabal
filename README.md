@@ -1,7 +1,10 @@
-## Hi there 👋
+## 💫 Hi 👋, I'm Asutosh Bhujabal
 
 <!--
 **Asutosh-Bhujabal/Asutosh-Bhujabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<br>
+![](https://streak-stats.demolab.com/?user=SujitKumarSahoo45&theme=dark&hide_border=false)<br/>
 
 Here are some ideas to get you started:
 
